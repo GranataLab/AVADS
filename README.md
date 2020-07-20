@@ -8,6 +8,6 @@ For more information and guided tutorials with sample videos, please download th
 
 This program was introduced the following manuscript. If you use this program, please cite this paper. 
 
-Peebles, A.T., Carroll, M.M., Socha, J.J., Schmitt, D., and Queen, R.M. (2020). "Validity of using two-dimensional video analysis and automated marker tracking to assess continuous sagittal-plane running kinematics." in review for Annals of Biomedical Engineering. 
+Peebles, A.T., Carroll, M.M., Socha, J.J., Schmitt, D., and Queen, R.M. (2020). "Validity of using two-dimensional video analysis and automated marker tracking to assess continuous sagittal-plane running kinematics." In press at Annals of Biomedical Engineering. 
 
 Note: we are actively working on translating AVADS to Java, where it can be run using ImageJ (FIJI), an open-source image/video analysis program. To download the stable version of AVADS_IJ, please visit this repository: https://github.com/GranataLab/AVADS_IJ. 

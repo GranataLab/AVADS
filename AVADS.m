@@ -48,7 +48,7 @@ varargout{1} = handles.output;
 %%%%%%%%%%%%%%%%%%%%%% Main code
 function LoadButton_Callback(hObject, eventdata, handles)
 
-[handles.fname handles.fpath] = uigetfile([handles.fpath,'/*.MOV;*.mp4']);
+[handles.fname handles.fpath] = uigetfile([handles.fpath,'/*.MOV;*.MP4;*.mov;*.mp4']);
 handles.playpause = 0;
 handles.vid = VideoReader([handles.fpath handles.fname]);
 handles.nframes = handles.vid.NumberOfFrames;

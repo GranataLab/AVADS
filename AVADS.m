@@ -1,6 +1,6 @@
 % Automated Video Analysis for Dynamic Systems
 % Written by Alex Peebles (apeebles@vt.edu) at Virginia Tech
-% Last updated on 4.9.2020
+% Last updated on 1.20.2021
 
 % If you use this for research, please cite the following paper: 
 %       Peebles AT, Carroll MM, Socha JJ, Schmitt D, Queen RM. 

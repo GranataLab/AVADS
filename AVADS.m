@@ -3,11 +3,12 @@
 % Last updated on 4.9.2020
 
 % If you use this for research, please cite the following paper: 
-%       Peebles AT, Carroll MM, Socha JJ, Schmitt D, and Queen RM.
-%       "Validity of using two-dimensional video analysis and automated
-%       marker tracking to assess continuous sagittal-plane running
-%       kinematics" In review at Annals of Biomedical Engineering as of
-%       April 2020. 
+%       Peebles AT, Carroll MM, Socha JJ, Schmitt D, Queen RM. 
+%       "Validity of Using Automated Two-Dimensional Video Analysis 
+%       to Measure Continuous Sagittal Plane Running Kinematics."
+%       Ann Biomed Eng. 2021 Jan;49(1):455-468. 
+%       doi: 10.1007/s10439-020-02569-y. Epub 2020 Jul 23. PMID: 32705424.
+
 
 % Please refer to the user manual for information on how to run the program
 % and guided tutorials with examples related to undergraduate dynamics and
